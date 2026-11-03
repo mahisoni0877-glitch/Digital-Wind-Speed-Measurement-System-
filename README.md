@@ -1,11 +1,10 @@
 # Digital Wind Speed Measurement System
 
 ## About the Project
-An IoT-based Digital Wind Speed Measurement System
-using ESP32 and a Hall Effect Anemometer.
-
-The system measures wind speed and RPM using
-sensor pulse detection.
+An ESP32-based Digital Wind Speed Measurement System
+using a Hall Effect Anemometer to measure RPM and
+wind speed, with real-time readings displayed on
+a 16x2 I2C LCD.
 
 ## Objectives
 - Measure wind speed.
@@ -40,6 +39,13 @@ on the LCD.
 - Environmental Monitoring
 - Smart Weather Stations
 
+ ## Features
+- Real-time RPM measurement
+- Wind speed calculation
+- Hall Effect sensor pulse detection
+- Live LCD output
+- ESP32-based embedded system
+- 
 ## Future Scope
 - Cloud Dashboard Integration
 - Wireless Data Monitoring
