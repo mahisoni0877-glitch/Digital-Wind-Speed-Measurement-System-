@@ -55,4 +55,4 @@ Hardware Prototype and Firmware Development.
 ![Project Setup](projectimage.jpeg)
 
 ### Anemometer
-![Anemometer Setup](anemometer-setup.jpg)
+![Anemometer Setup](anemometer -setup.jpg)
