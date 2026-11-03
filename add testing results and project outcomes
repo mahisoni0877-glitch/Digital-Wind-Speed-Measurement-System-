@@ -1,0 +1,36 @@
+# Testing Results and Project Outcomes
+
+## Testing Performed
+
+1. ESP32 board programming and initialization.
+2. Hall Effect sensor pulse detection.
+3. RPM measurement.
+4. Wind speed calculation.
+5. LCD display testing.
+
+## Project Outcomes
+
+- Successfully developed an ESP32-based wind speed measurement prototype.
+- Measured anemometer RPM using Hall Effect sensor pulses.
+- Calculated wind speed from sensor readings.
+- Displayed real-time RPM and wind speed on a 16x2 I2C LCD.
+
+## Current Project Status
+
+The hardware prototype and LCD-based monitoring system are implemented.
+
+Cloud connectivity and remote monitoring are planned as future enhancements.
+
+## Applications
+
+- Weather monitoring
+- Wind energy systems
+- Agricultural monitoring
+- Environmental studies
+
+## Future Improvements
+
+- IoT cloud dashboard integration
+- Wireless monitoring
+- Data logging
+- Sensor calibration and accuracy improvement
